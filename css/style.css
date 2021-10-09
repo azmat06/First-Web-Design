@@ -1,0 +1,24 @@
+.menubar{
+    background: red;
+}
+.founder{
+    color:red;
+    padding-top: 50px;
+    
+    border-bottom: 5px solid red;
+    
+}
+.text{
+    padding-top: 25px;
+    font-size: 15px;
+    
+}
+.model{
+    border-bottom: 5px solid red;
+    
+}
+.gallery img{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+}
